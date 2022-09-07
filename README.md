@@ -24,6 +24,7 @@
 
 <br/> <br/>
 <h3>⭐ Stack ⭐</h3>
+<img src="https://img.shields.io/badge/JQuery%20-%236DB33F.svg?&style=flat&logo=jquery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white")/></a>
