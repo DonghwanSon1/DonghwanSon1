@@ -11,9 +11,7 @@
 
 	
 👋 안녕하세요 백앤드 개발자 손동환입니다. <br/>
-👀 꾸준히 노력하는 개발자가 되기위해 <br/>
-🌱 현재 JAVA, SQL, JSP, JDBC, Ajax, JavaScript...등등 <br/>
- 🤔 배우고 있습니다  <br/> <br/>
+
 
 📫 이메일 주소 <img src="https://img.shields.io/badge/sdh549@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdh549@naver.com" style="height : auto; padding-top: 10px;"/>
 
