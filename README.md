@@ -44,9 +44,8 @@
 
 
 
-[![DonghwanSon1's GitHub stats]([https://github-readme-stats.vercel.app/api?username=DonghwanSon1](https://github.com/DonghwanSon1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DonghwanSon1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DonghwanSon1's github stats))](https://github.com/DonghwanSon1/github-readme-stats)
 <a href="https://github.com/DonghwanSon1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DonghwanSon1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DonghwanSon1's github stats" /></a>
-
+<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghwanSon1)](https://github.com/DonghwanSon1/github-readme-stats)
