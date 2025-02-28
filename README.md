@@ -34,8 +34,8 @@
 <img src="https://img.shields.io/badge/PostgreSql-%2300f.svg?&style=flat&logo=postgreSql&logoColor=white")/></a>
 <img src="https://img.shields.io/badge/Opensearch-%2300f.svg?&style=flat&logo=opensearch&logoColor=white")/></a>
 <br>
-<img src="https://img.shields.io/badge/Docker-%2300f.svg?&style=flat&logo=Docker&logoColor=white")/></a>
-<img src="https://img.shields.io/badge/Jenkins-%2300f.svg?&style=flat&logo=Jenkins&logoColor=white")/></a>
+<img src="https://img.shields.io/badge/Docker-%FFFF00.svg?&style=flat&logo=Docker&logoColor=white")/></a>
+<img src="https://img.shields.io/badge/Jenkins-%FFFF00.svg?&style=flat&logo=Jenkins&logoColor=white")/></a>
 
 
 <br/> 
